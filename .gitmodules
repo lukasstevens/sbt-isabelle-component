@@ -2,3 +2,4 @@
 	path = isabelle
 	url = https://github.com/seL4/isabelle
 	ignore = dirty
+        shallow = true
